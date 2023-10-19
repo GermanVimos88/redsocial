@@ -1,0 +1,1 @@
+Red social con servicio api rest utilizando mongoDB,express y NodeJs, y frontend desarrollado con ReactJs, Material UI y Axios.
